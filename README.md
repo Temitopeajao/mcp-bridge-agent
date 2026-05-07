@@ -66,4 +66,4 @@ Eliminates per-token billing for high-volume internal data analysis.
 
 ---
 
-*Developed by **Temitope Ajao**, AI Engineer at Ex Machina Technologies.*
+*Developed by **Temitope Ajao**, Founder of Ex Machina Technologies.*
